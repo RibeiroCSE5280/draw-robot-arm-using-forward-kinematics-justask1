@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test_3dtransformation_assignment",
+      "setup": "pip install -r requirements.txt",
+      "run": "python3 -m unittest -v test_unittest_display_3D.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
